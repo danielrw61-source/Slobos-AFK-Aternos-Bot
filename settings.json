@@ -5,8 +5,8 @@
     "password": "",
     "type": "offline"
   },
-  "server": { diggasmp.aternos.me
-    "ip": "slobtest1.aternos.me",
+  "server": { 
+    "ip": "diggasmp.aternos.me",
     "port": 23137,
     "version": "",
     "try-creative": false
